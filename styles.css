@@ -1,0 +1,37 @@
+.hero {
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.2rem;
+}
+
+.card {
+    min-height: 380px;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bold;
+}
+iframe {
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+.pastor-img {
+    width: 150px; /* Make images smaller */
+    height: 150px;
+    border-radius: 50%; /* Make images circular */
+    object-fit: cover;
+    border: 3px solid #ddd; /* Optional: Adds a border */
+    margin-bottom: 10px;
+}
+.about h3{
+    text-align: center;
+}
+.aboutli{
+    text-align: center;
+    justify-content: center;
+    font-family: 'Courier New', Courier, monospace;
+}
